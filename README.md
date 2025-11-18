@@ -10,6 +10,13 @@ Fine-tune a small language model (SLM) using PEFT/LoRA on curated HF datasets wi
 - Hardware: Colab T4 (16GB)
 - Final Checkpoint: [Link placeholder]
 
+## Results
+![ScreenShort](image.png)
+
+
 ## Setup
 ```bash
 pip install -r requirements.txt
+
+
+
