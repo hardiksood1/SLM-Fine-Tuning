@@ -8,7 +8,8 @@ Fine-tune a small language model (SLM) using PEFT/LoRA on curated HF datasets wi
 - Config: `configs/training_config.yaml`
 - Seed: 42
 - Hardware: Colab T4 (16GB)
-- Final Checkpoint: [Link placeholder]
+- Final Checkpoint
+
 
 ## Results
 
