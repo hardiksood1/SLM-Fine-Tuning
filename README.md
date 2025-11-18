@@ -13,7 +13,7 @@ Fine-tune a small language model (SLM) using PEFT/LoRA on curated HF datasets wi
 
 ## Results
 
-![ScreenShort](Screenshot 2025-11-18 110726.png)
+![ScreenShort](image.png)
 
 
 ## Setup
