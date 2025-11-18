@@ -1,0 +1,11 @@
+transformers>=4.30
+accelerate>=0.22
+peft>=0.4
+datasets>=2.9
+torch>=2.0
+wandb
+sentencepiece
+evaluate
+pyyaml
+tensorboard
+scipy

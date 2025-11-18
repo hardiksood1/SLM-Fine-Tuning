@@ -1,0 +1,6 @@
+{
+  "datasets": [
+    { "id": "roneneldan/TinyStories", "config": null, "max_samples": 1500 },
+    { "id": "Salesforce/wikitext", "config": "wikitext-103-raw-v1", "max_samples": 1000 }
+  ]
+}

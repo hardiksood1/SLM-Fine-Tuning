@@ -1,0 +1,23 @@
+model:
+  name_or_path: "Salesforce/codegen-350M-multi"
+  use_peft: true
+  lora:
+    r: 8
+    alpha: 32
+    dropout: 0.05
+
+training:
+  micro_batch_size: 2
+  gradient_accumulation_steps: 2
+  epochs: 1
+  lr: 0.0002
+  weight_decay: 0.01
+  warmup_steps: 50
+  max_grad_norm: 1.0
+  seed: 42
+
+data:
+  seq_length: 512
+
+eval:
+  save_steps: 500
